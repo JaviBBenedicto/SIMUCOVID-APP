@@ -19,4 +19,4 @@ You can create the elements randomly by choosing the number or you can create ea
 
 Once all fields are filled in, the simulator will run.
 
-<img width="986" alt="Captura de pantalla 2021-10-25 a las 0 53 26" src="https://user-images.githubusercontent.com/90817111/138616196-418b7942-e575-4872-b07b-79b4037b7fc8.png">
+<img width="1039" alt="Captura de pantalla 2021-10-25 a las 0 55 20" src="https://user-images.githubusercontent.com/90817111/138616248-2ee7370b-8608-42cf-b120-4f4d73b5f70c.png">
