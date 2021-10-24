@@ -7,3 +7,4 @@ _You can access the tool via the following URL: https://simucovidapp.herokuapp.c
 ## How it works? 🚀
 
 Go to "SIMULADOR" page.
+
