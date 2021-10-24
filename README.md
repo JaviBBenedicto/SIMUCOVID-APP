@@ -16,6 +16,7 @@ At the top you will find three sections:
 * Variante: You can choose the desired variant of the database.
 * Automatico / Manual: In this section you can create the elements (subjects) that will participate in the simulation. 
 You can create the elements randomly by choosing the number or you can create each element in a customised way.
+Depending on the age of the elements, the infection rate will be higher or lower. 
 
 Once all fields are filled in, the simulator will run.
 
