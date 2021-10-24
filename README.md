@@ -25,3 +25,5 @@ Once all fields are filled in, the simulator will run.
 While the simulator is running, the status of each element, the elapsed time and the live graphical representation of the simulation will be displayed. 
 
 When all elements are infected, the simulation will end and the contagion graph will be displayed. 
+
+<img width="1030" alt="Captura de pantalla 2021-10-25 a las 1 01 35" src="https://user-images.githubusercontent.com/90817111/138616437-8ba8bd51-e139-45b6-835a-af12f08b8b2e.png">
