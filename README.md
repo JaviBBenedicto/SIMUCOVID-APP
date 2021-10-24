@@ -31,3 +31,10 @@ When all elements are infected, the simulation will end and the contagion graph 
 If you wish you can download a pdf document with the simulation results ("Descargar") or start a new simulation ("Reset"). 
 
 ## Project structure 🛠️
+
+This project is composed of a home page "index.php" and four folders:
+
+* assets: All css, img, js files and libraries of application.
+* forms: All forms used by the application.
+* pages: All pages of the application.
+* utils: The connection db , login and logout files.
