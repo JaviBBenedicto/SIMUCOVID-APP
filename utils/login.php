@@ -30,7 +30,7 @@ if ($conn->connect_error) {
 else
 {
    echo "Conectado correctamente";
-   $sql = "SELECT nombre, apellido, login, password, rol FROM autentificacion WHERE login LIKE '$login' AND password LIKE '$pass'";
+   $sql = "SELECT nombre, apellido, login, password, rol FROM autentificacion WHERE login = '$login' AND password = '$pass'";
    
    echo $sql;
 
