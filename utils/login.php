@@ -18,7 +18,7 @@ require('conexion.php');
 
 $login = $_POST['login'];
 $pass = $_POST['password'];
-// echo $login . " " . $pass;
+
 $_SESSION ["login"] = $login;
 
 $conn = conectar();
